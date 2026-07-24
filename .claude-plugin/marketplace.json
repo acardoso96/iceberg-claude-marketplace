@@ -1,0 +1,16 @@
+{
+  "name": "iceberg-claude-marketplace",
+  "owner": {
+    "name": "Iceberg Solutions"
+  },
+  "metadata": {
+    "description": "Iceberg Solutions marketplace of Claude Code plugins."
+  },
+  "plugins": [
+    {
+      "name": "systematic-debugging",
+      "source": "./plugins/systematic-debugging",
+      "description": "Root-cause-first debugging methodology. Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes."
+    }
+  ]
+}
