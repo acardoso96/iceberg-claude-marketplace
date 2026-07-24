@@ -1,0 +1,8 @@
+{
+  "name": "secret-guard",
+  "description": "Security gate (Article 5): prevents Claude from reading/writing secrets, clientId and sensitive config information, and vetoes destructive commands.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Iceberg Solutions"
+  }
+}

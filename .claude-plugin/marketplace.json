@@ -11,6 +11,11 @@
       "name": "systematic-debugging",
       "source": "./plugins/systematic-debugging",
       "description": "Root-cause-first debugging methodology. Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes."
+    },
+    {
+      "name": "secret-guard",
+      "source": "./plugins/secret-guard",
+      "description": "Security gate (Article 5): blocks reading/writing secrets and clientId in project config, and vetoes destructive commands."
     }
   ]
 }
